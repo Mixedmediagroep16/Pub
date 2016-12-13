@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "versie 2",
-    "currentPage": "index.html",
+    "currentPage": "aboutproject.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.9.2",
-    "uniqCompNum": 36,
+    "uniqCompNum": 43,
     "versionPublish": "3.9.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -72,7 +72,7 @@
             "showButtons": true
           },
           "title": "Dance fills up<div>the room</div>",
-          "text": "Cianca Kraus, Dennis van Gurp,<br>Fabian Hilbert &amp; Fleur van Eijl<br>",
+          "text": "<span style=\"font-style: normal;\">Cianca Kraus, Dennis van Gurp,<br>Fabian Hilbert &amp; Fleur van Eijl</span><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"aboutus.html\" data-toolbar=\"-mbrBtnMove\">continue</a>"
         },
         {
@@ -158,7 +158,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"proces.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
         }
       ]
     },
@@ -185,7 +185,36 @@
             "showMeta": true
           },
           "title": "ABOUT US",
-          "meta": "Group 16"
+          "meta": "<span style=\"font-style: normal;\">Group 16</span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-11",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20161206-projectnaam-131-2000x1333-83.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "menu",
@@ -270,7 +299,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"proces.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
         },
         {
           "_tags": [
@@ -308,7 +337,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/13659155-10209121775734676-2409491388166351434-n-600x600-86.jpg",
+              "src": "@PROJECT_PATH@/assets/images/14731329-1755645651354247-6599461575036635279-n-600x600-33.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -318,13 +347,13 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Cianca Kraus",
-          "subtitle1": "23",
-          "caption1": "Thomas More University College Mechelen<br>- Bachelor Interior &amp; Design -<br><br>UA - University of Antwerp<br>Master student Interior architecture<br>",
+          "title1": "Fabian Hilbert",
+          "subtitle1": "24",
+          "caption1": "AMD<br>Academy of Fashion &amp; Design<br>- Bachelor Interior Design -<br><br>UA - University of Antwerp<br>Master student Interior architecture<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/14731329-1755645651354247-6599461575036635279-n-600x600-23.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20161128-projectnaam-054-600x600-98.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -334,13 +363,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Fabian Hilbert",
-          "subtitle2": "24",
-          "caption2": "AMD<br>Academy of Fashion &amp; Design<br>- Bachelor Interior Design -<br><br>UA - University of Antwerp<br>Master student Interior architecture<br>",
+          "title2": "Fleur van Eijl",
+          "subtitle2": "21",
+          "caption2": "Thomas More University College Mechelen<br>- Bachelor Interior &amp; Service Design -<br><br>UA - University of Antwerp<br>Master student Interior architecture<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/20161128-projectnaam-054-600x600-6.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13659155-10209121775734676-2409491388166351434-n-600x600-94.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -350,9 +379,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Fleur van Eijl",
-          "subtitle3": "21",
-          "caption3": "Thomas More University College Mechelen<br>- Bachelor Interior &amp; Service Design -<br><br><span style=\"font-size: 1rem; line-height: 1.5;\">UA - University of Antwerp</span><br>Master student Interior architecture<br><br><br>",
+          "title3": "Cianca Kraus",
+          "subtitle3": "23",
+          "caption3": "Thomas More University College Mechelen<br>- Bachelor Interior &amp; Design -<br><br>UA - University of Antwerp<br>Master student Interior architecture<br><br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
@@ -505,7 +534,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"proces.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
         }
       ]
     },
@@ -597,7 +626,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"proces.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
         },
         {
           "_styles": {
@@ -709,7 +738,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"proces.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
         },
         {
           "_styles": {
@@ -729,7 +758,20 @@
             "showMeta": true
           },
           "title": "ABOUT THE PROJECT",
-          "meta": "Mixed Media"
+          "meta": "<span style=\"font-style: normal;\">Mixed Media</span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-16",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>In het inleidend college Toolbox Methodiek 3 worden voorbeelden getoond die de conceptvorming of de vertaalslag van analyse naar ontwerp verduidelijken. In de ontwerpstudio passen we dit toe aan de hand van volgende opdracht.\n￼￼￼Vanuit een multidisciplinaire invalshoek ontwerp je een contextueel object als prototype. </p><p><br></p><p>Je bepaalt de context (functie, omgeving, materiaal, filosofie, geschiedenis, ...) van het object op basis van multidisciplinaire ideeën. Dit object kan een functioneel antwoord zijn op ergonomische handelingen van een gebruiker (rusten, schrijven, eten, lezen, spelen, praten, observeren, enz....) maar kan evengoed een vrije installatie zijn of de uitdrukking van een beleving. </p><p><br></p><p>Output ontwerp:\n</p><p>Je maakt een prototype op schaal 1/1. Onder prototype verstaan we een eerste model als proefexemplaar en voorafbeelding van je ontwerp, i.d.g. op ware grootte en in de juiste materiaal- uitvoering. Om dit in een kort tijdsbestek te kunnen realiseren moet je in de ontwerpfase snel combineren tussen brainstormtechniek, tekensessies, schaalmodelbouw of 3D-voorstelling. Het efficient verzamelen van nuttige informatie over toepassing van techniek en materiaal is aangewezen. Je voert de opdracht uit in een ontwerpteam. In gezamenlijk overleg neem je beslissingen, je neemt rollen op en verdeelt de taken. Jullie leiden het team als een ontwerpbureau.\nDe realisatie van een prototype hangt af van o.a. kennis over uitvoeringstechniek(en) en materialen. In deze opdracht is experimenteren evident. Let hierbij op de korte realisatieperiode. Om hygienische reden en dubbel gebruik mogen de prototypen niet in de eigen ontwerpateliers gemaakt worden. Je maakt gebruik van de faciliteiten van het atelier Mekano (Fivez-gebouw) en van de know how van de atelierbeheerders. Je kan er materialen aankopen en werkgerief ontlenen. De opleiding hecht veel waarde aan duurzaamheid. Daarom vermijd je verkwisting of oneigenlijk gebruik van materiaal.\n</p><p><br></p><p>Deadline ontwerp:\n</p><p>Beoordeling van het prototype op donderdag 12 januari 2017. Bij het prototype horen illustrerende tekeningen of schetsen op vrije schaal.\n</p><p><br></p><p>Procesopvolging en output via Mixed Media:\n</p><p>In deze casestudie benadrukken we het belang van de opvolging van het ontwerpproces en hoe je multidisciplinair denken communiceert. Via leerinhouden van het examenonderdeel Mixed Media wordt dit ondersteund. Inhoud en opzet worden ingeleid via gastcolleges in de eerste week.\n</p><p><br></p><p>De inhoud Fotografische Beeldvorming wordt gedoceerd door gastdocent Faryda Moumouh. Het medium fotografie wordt niet alleen illustratief ingezet, lees ‘het beeld bij de uitleg’ of ‘the making of’, maar wordt vooral ingezet om het ontwerpactiviteiten en creatieve output te ondersteunen.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">De inhoud Online Publicatie wordt verzorgd door gastdocent Bram Overstijns. Je leert hoe je een online archief opzet en hoe je een online publicatie en presentatie vormgeeft en realiseert.\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Om de begeleiding van deze leerinhouden efficiënt te organiseren wijst ieder ontwerpteam een vertegenwoordiger Mixed Media aan. Hij/zij communiceert met beide gastdocenten, brengt de opdracht(en) en inhoud over aan de teamleden en is aanwezig op de wekelijkse consultmomenten. Vragen van het team over beide facetten van dit examenonderdeel worden steeds via de vertegenwoordiger Mixed Media gekanaliseerd. De vertegenwoordiger beschikt over een eigen\nlaptop.\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Output en deadline Mixed Media:\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Zie cursussen Fotografische Beeldvorming en Online Publicatie.\nOp de dag van de jury, donderdag 12 januari, leidt het team de presentatie in met de online publicatie waarin het ontwerpproces, visie, uitwerking en het deel fotografische beeldvorming is opgenomen. Delen van de onlinepublicatie kunnen in de reflectieportfolio van het POP TS3 opgenomen worden.</span></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -821,7 +863,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"proces.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
         },
         {
           "_styles": {
@@ -841,7 +883,7 @@
             "showMeta": true
           },
           "title": "WEEK 1",
-          "meta": "21 november - 27 november<br>Brainstorm"
+          "meta": "<span style=\"font-style: normal;\">21 november - 27 november<br>Brainstorm</span>"
         },
         {
           "_inherit": "gallery1",
@@ -1056,7 +1098,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"proces.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
         },
         {
           "_tags": [
@@ -1120,25 +1162,33 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/15555202-1209034552508948-1849342034-o-1-600x449-31.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "<br>WEEK 3",
           "subtitle3": "5 december - 11 december",
-          "caption3": "...",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "Maquette",
+          "button3": "<a data-app-btn=\"true\" href=\"week3.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20161206-projectnaam-131-600x400-84.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title4": "<br>WEEK 4",
+          "title4": "<br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">WEEK 4</span><br>",
           "subtitle4": "12 december - 18 december",
           "caption4": "...<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -1257,7 +1307,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"proces.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
         },
         {
           "_styles": {
@@ -1277,7 +1327,7 @@
             "showMeta": true
           },
           "title": "WEEK 2",
-          "meta": "28 november - 4 december<br>Research"
+          "meta": "<span style=\"font-style: normal;\">28 november - 4 december<br>Research</span>"
         },
         {
           "_tags": [
@@ -1538,7 +1588,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"proces.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WEEK 4</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
         },
         {
           "_styles": {
@@ -1558,7 +1608,63 @@
             "showMeta": true
           },
           "title": "WEEK 3",
-          "meta": "5 december - 11 december<br>..."
+          "meta": "<span style=\"font-style: normal;\">5 december - 11 december<br>Maquette</span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-14",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/15555202-1209034552508948-1849342034-o-1-1400x1049-81.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-15",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/15491656-1209034442508959-730583789-o-1-1400x1867-97.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         }
       ]
     }
