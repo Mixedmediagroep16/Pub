@@ -1,6 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -411,6 +414,12 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header1-z .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+}
+#header1-z .mbr-section-lead SPAN {
+  font-family: 'Oswald', sans-serif;
+}
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -472,9 +481,15 @@ h6,
 #ext_menu-1 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
+
+
 #header3-m .mbr-section-title,
 #header3-m .mbr-section-subtitle {
   text-align: center;
+}
+#header3-m SPAN {
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-6 .hide-buttons .nav-btn {
   display: none !important;
@@ -539,6 +554,12 @@ h6,
 }
 #features1-c .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
+}
+#features1-c .mbr-cards-col:nth-child(odd) .card-title {
+  font-family: 'Montserrat', sans-serif;
+}
+#features1-c .mbr-cards-col:nth-child(odd) .card-text {
+  font-family: 'Raleway', sans-serif;
 }
 #header3-j .mbr-section-title,
 #header3-j .mbr-section-subtitle {
@@ -670,6 +691,7 @@ h6,
 #header3-k .mbr-section-subtitle {
   text-align: center;
 }
+
 #ext_menu-d .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -735,6 +757,10 @@ h6,
 #header3-l .mbr-section-subtitle {
   text-align: center;
 }
+#header3-l SPAN {
+  font-family: 'Oswald', sans-serif;
+}
+
 #ext_menu-f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -800,6 +826,10 @@ h6,
 #header3-g .mbr-section-subtitle {
   text-align: center;
 }
+#header3-g SPAN {
+  font-family: 'Oswald', sans-serif;
+}
+
 #ext_menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -861,6 +891,10 @@ h6,
 #ext_menu-a .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#features3-e H5 {
+  font-family: 'Oswald', sans-serif;
+}
+
 #ext_menu-n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -926,6 +960,9 @@ h6,
 #header3-o .mbr-section-subtitle {
   text-align: center;
 }
+#header3-o SPAN {
+  font-family: 'Oswald', sans-serif;
+}
 #msg-box5-q H3 {
   text-align: left;
 }
@@ -935,6 +972,7 @@ h6,
 #msg-box5-r P {
   text-align: right;
 }
+
 #ext_menu-t .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -999,4 +1037,7 @@ h6,
 #header3-y .mbr-section-title,
 #header3-y .mbr-section-subtitle {
   text-align: center;
+}
+#header3-y SPAN {
+  font-family: 'Oswald', sans-serif;
 }
