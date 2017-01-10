@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "versie 2",
-    "currentPage": "index.html",
+    "currentPage": "interview.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2392,7 +2392,7 @@
             "showMeta": true
           },
           "title": "INTERVIEW",
-          "meta": "<span style=\"font-style: normal;\">MORGANE OVER EXPERIENCE BOX</span>"
+          "meta": "<span style=\"font-style: normal;\">MORGANE ABOUT EXPERIENCE BOX</span>"
         },
         {
           "_tags": [
