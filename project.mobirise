@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "versie 2",
-    "currentPage": "week5.html",
+    "currentPage": "week6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1611,6 +1611,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".btn": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_tags": [
@@ -1639,7 +1643,7 @@
           },
           "title": "",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"week4.html\" data-toolbar=\"-mbrBtnMove\">CLICK FOR WEEK 4</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"week4.html\" data-toolbar=\"-mbrBtnMove\">GO TO WEEK 4</a>"
         }
       ]
     },
