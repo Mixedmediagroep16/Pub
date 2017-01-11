@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "versie 2",
-    "currentPage": "result.html",
+    "currentPage": "aboutcourse.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2600,7 +2600,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>We had to make a prototype at scale 1/1. To achieve this in a short period of time we had to switch between brainstorming techniques, drawing sessions, scale construction or 3D representation. We had to perform the task in a team of four. We made decisions, we took our roles and distributed tasks in consultation. We had to lead the team as a professional design agency. The creation of the prototype implementation depends on knowledge of techniques and materials. In this process experimentation was an important element. The program is comitted to sustainability. Therefore we avoid waste or misuse of material.&nbsp;</p><p><br></p><p><br></p>"
+          "text": "<p>The assignment was to create an object with no specific function. An object that also had to be multidisciplinary. A crossover between dance and architecture is what we have chosen. We had to make a prototype at scale 1/1. To achieve this in a short period of time we had to switch between brainstorming techniques, drawing sessions, scale construction or 3D representation. We had to perform the task in a team of four. We made decisions, we took our roles and distributed tasks in consultation. We had to lead the team as a professional design agency. The creation of the prototype implementation depends on knowledge of techniques and materials. In this process experimentation was an important element. The program is comitted to sustainability. Therefore we avoid waste or misuse of material.&nbsp;</p><p><br></p><p><br></p>"
         }
       ]
     }
