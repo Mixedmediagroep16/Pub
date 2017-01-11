@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "versie 2",
-    "currentPage": "week2.html",
+    "currentPage": "week6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week4.html\">WEEK 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week5.html\">WEEK 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week6.html\">WEEK 6</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interview.html\">INTERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">COURSE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week4.html\">WEEK 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week5.html\">WEEK 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week6.html\">WEEK 6</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interview.html\">INTERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
         },
         {
           "_inherit": "header1",
@@ -796,139 +796,6 @@
         }
       ]
     },
-    "aboutproject.html": {
-      "settings": {
-        "order": 3
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-d",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week4.html\">WEEK 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week5.html\">WEEK 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week6.html\">WEEK 6</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interview.html\">INTERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SPAN": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "H3": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-l",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "ABOUT THE PROJECT",
-          "meta": "<span style=\"font-style: normal;\">MIXED MEDIA</span>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-16",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>In het inleidend college Toolbox Methodiek 3 worden voorbeelden getoond die de conceptvorming of de vertaalslag van analyse naar ontwerp verduidelijken. In de ontwerpstudio passen we dit toe aan de hand van volgende opdracht.\n￼￼￼Vanuit een multidisciplinaire invalshoek ontwerp je een contextueel object als prototype. </p><p><br></p><p>Je bepaalt de context (functie, omgeving, materiaal, filosofie, geschiedenis, ...) van het object op basis van multidisciplinaire ideeën. Dit object kan een functioneel antwoord zijn op ergonomische handelingen van een gebruiker (rusten, schrijven, eten, lezen, spelen, praten, observeren, enz....) maar kan evengoed een vrije installatie zijn of de uitdrukking van een beleving. </p><p><br></p><p>Output ontwerp:\n</p><p>Je maakt een prototype op schaal 1/1. Onder prototype verstaan we een eerste model als proefexemplaar en voorafbeelding van je ontwerp, i.d.g. op ware grootte en in de juiste materiaal- uitvoering. Om dit in een kort tijdsbestek te kunnen realiseren moet je in de ontwerpfase snel combineren tussen brainstormtechniek, tekensessies, schaalmodelbouw of 3D-voorstelling. Het efficient verzamelen van nuttige informatie over toepassing van techniek en materiaal is aangewezen. Je voert de opdracht uit in een ontwerpteam. In gezamenlijk overleg neem je beslissingen, je neemt rollen op en verdeelt de taken. Jullie leiden het team als een ontwerpbureau.\nDe realisatie van een prototype hangt af van o.a. kennis over uitvoeringstechniek(en) en materialen. In deze opdracht is experimenteren evident. Let hierbij op de korte realisatieperiode. Om hygienische reden en dubbel gebruik mogen de prototypen niet in de eigen ontwerpateliers gemaakt worden. Je maakt gebruik van de faciliteiten van het atelier Mekano (Fivez-gebouw) en van de know how van de atelierbeheerders. Je kan er materialen aankopen en werkgerief ontlenen. De opleiding hecht veel waarde aan duurzaamheid. Daarom vermijd je verkwisting of oneigenlijk gebruik van materiaal.\n</p><p><br></p><p>Deadline ontwerp:\n</p><p>Beoordeling van het prototype op donderdag 12 januari 2017. Bij het prototype horen illustrerende tekeningen of schetsen op vrije schaal.\n</p><p><br></p><p>Procesopvolging en output via Mixed Media:\n</p><p>In deze casestudie benadrukken we het belang van de opvolging van het ontwerpproces en hoe je multidisciplinair denken communiceert. Via leerinhouden van het examenonderdeel Mixed Media wordt dit ondersteund. Inhoud en opzet worden ingeleid via gastcolleges in de eerste week.\n</p><p><br></p><p>De inhoud Fotografische Beeldvorming wordt gedoceerd door gastdocent Faryda Moumouh. Het medium fotografie wordt niet alleen illustratief ingezet, lees ‘het beeld bij de uitleg’ of ‘the making of’, maar wordt vooral ingezet om het ontwerpactiviteiten en creatieve output te ondersteunen.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">De inhoud Online Publicatie wordt verzorgd door gastdocent Bram Overstijns. Je leert hoe je een online archief opzet en hoe je een online publicatie en presentatie vormgeeft en realiseert.\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Om de begeleiding van deze leerinhouden efficiënt te organiseren wijst ieder ontwerpteam een vertegenwoordiger Mixed Media aan. Hij/zij communiceert met beide gastdocenten, brengt de opdracht(en) en inhoud over aan de teamleden en is aanwezig op de wekelijkse consultmomenten. Vragen van het team over beide facetten van dit examenonderdeel worden steeds via de vertegenwoordiger Mixed Media gekanaliseerd. De vertegenwoordiger beschikt over een eigen\nlaptop.\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Output en deadline Mixed Media:\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Zie cursussen Fotografische Beeldvorming en Online Publicatie.\nOp de dag van de jury, donderdag 12 januari, leidt het team de presentatie in met de online publicatie waarin het ontwerpproces, visie, uitwerking en het deel fotografische beeldvorming is opgenomen. Delen van de onlinepublicatie kunnen in de reflectieportfolio van het POP TS3 opgenomen worden.</span></p><p><br></p><p><br></p>"
-        }
-      ]
-    },
     "week1.html": {
       "settings": {
         "order": 5
@@ -1260,7 +1127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week4.html\">WEEK 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week5.html\">WEEK 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week6.html\">WEEK 6</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interview.html\">INTERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">COURSE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week4.html\">WEEK 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week5.html\">WEEK 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week6.html\">WEEK 6</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interview.html\">INTERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
         },
         {
           "_styles": {
@@ -1820,7 +1687,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>In week 4 zijn we op zoek gegaan naar materialen voor ons object. We brachten een bezoek aan Martens hout voor 4 MDF-platen van 120cm x 120cm met spiegelfolie aan een zijde. Aan de andere zijde bevestigen we een HPL-plaat om de dansvloer te suggereren. Ook zijn we op zoek gegaan naar een locatie om mooie foto's te maken voor ons object. De parkeergarage boven de Decathlon leek ons een perfecte locatie, industrieel en veel lichtinval.</p>"
+          "text": "<p>In week 4 we started looking for materials for our object. We visited 'Martens hout' to get 4 MDF-panels size 120x120cm with mirrorfoil on one side. On the other side we put a HPL-panel to create a dancefloor-effect. Moreover, we looked for a location to make nice pictures of our object. The parking lot above the Decathlon seemed like the perfect location because of its industrial look and great natural light.&nbsp;</p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -2003,7 +1875,7 @@
             "showMeta": true
           },
           "title": "WEEK 5",
-          "meta": "<span style=\"font-style: normal;\">19 december - 25 december<br>UITVOERING</span>"
+          "meta": "<span style=\"font-style: normal;\">19 december - 25 december<br>CREATION</span>"
         },
         {
           "_tags": [
@@ -2044,7 +1916,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "In week 5 zijn we begonnen aan de uitvoering van ons object. De HPL-platen op de buitenste zijde van de MDF-platen lijmen, de bars bevestigen en de verdere constructieve elementen plaatsen om het object uiteindelijk op te kunnen hangen."
+          "text": "In week 5 we started with the creation of our object. We glued the HPL-panels on the outsides of the MDF-panels and attached the bars and other constructive elements in order to be able to hang the object.",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -2181,7 +2058,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>At week 6 we did a photoshoot of our project located in the parkinggarage above the Decathlon. Thanks to Myrthe Janse (photographer) and Morgane de Meulenaere (dancer).</p>"
+          "text": "<p>In week 6 we did a photoshoot of our project located in the parkinggarage above the Decathlon. Thanks to Myrthe Janse (photographer) and Morgane de Meulenaere (dancer).</p>"
         },
         {
           "_inherit": "menu",
@@ -2518,6 +2395,144 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week4.html\">WEEK 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week5.html\">WEEK 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week6.html\">WEEK 6</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interview.html\">INTERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
+        }
+      ]
+    },
+    "aboutcourse.html": {
+      "settings": {
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-d",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"aboutus.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutproject.html\">PROJECT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"process.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROCESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week1.html\">WEEK 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week2.html\">WEEK 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week3.html\">WEEK 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week4.html\">WEEK 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week5.html\">WEEK 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"week6.html\">WEEK 6</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"concept.html\">CONCEPT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"result.html\">RESULT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interview.html\">INTERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">CONCEPT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://mobirise.com/\">PRODUCT</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-l",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "ABOUT THE COURSE",
+          "meta": "<span style=\"font-style: normal;\">MIXED MEDIA</span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-16",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>We had to make a prototype at scale 1/1. To achieve this in a short period of time we had to switch between brainstorming techniques, drawing sessions, scale construction or 3D representation. We had to perform the task in a team of four. We made decisions, we took our roles and distributed tasks in consultation. We had to lead the team as a professional design agency. The creation of the prototype implementation depends on knowledge of techniques and materials. In this process experimentation was an important element. The program is comitted to sustainability. Therefore we avoid waste or misuse of material.&nbsp;</p><p><br></p><p><br></p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     }
