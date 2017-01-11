@@ -729,6 +729,7 @@ h6,
 }
 
 
+
 #ext_menu-f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -800,6 +801,14 @@ h6,
 #header3-g H3 {
   font-family: 'Oswald', sans-serif;
 }
+#msg-box3-28 .mbr-section-title,
+#msg-box3-28 p {
+  color: #000;
+}
+#msg-box3-28 .btn {
+  font-family: 'Raleway', sans-serif;
+}
+
 
 
 
@@ -903,6 +912,13 @@ h6,
 #msg-box5-s P {
   text-align: center;
 }
+#msg-box3-29 .mbr-section-title,
+#msg-box3-29 p {
+  color: #000;
+}
+#msg-box3-29 .btn {
+  font-family: 'Raleway', sans-serif;
+}
 
 
 #ext_menu-t .hide-buttons .nav-btn {
@@ -975,6 +991,10 @@ h6,
 }
 #header3-y H3 {
   font-family: 'Oswald', sans-serif;
+}
+#msg-box3-2a .mbr-section-title,
+#msg-box3-2a p {
+  color: #000;
 }
 
 
@@ -1052,6 +1072,10 @@ h6,
 #content1-1e P {
   text-align: center;
 }
+#msg-box3-2b .mbr-section-title,
+#msg-box3-2b p {
+  color: #000;
+}
 
 
 #ext_menu-1k .hide-buttons .nav-btn {
@@ -1127,6 +1151,10 @@ h6,
 }
 #content1-1n DIV {
   text-align: center;
+}
+#msg-box3-2c .mbr-section-title,
+#msg-box3-2c p {
+  color: #000;
 }
 
 
