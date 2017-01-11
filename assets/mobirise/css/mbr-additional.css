@@ -1140,6 +1140,9 @@ h6,
 #header3-1q H3 {
   font-family: 'Oswald', sans-serif;
 }
+#content1-1s P {
+  text-align: center;
+}
 #ext_menu-1p .hide-buttons .nav-btn {
   display: none !important;
 }
