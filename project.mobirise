@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "versie 2",
-    "currentPage": "week6.html",
+    "currentPage": "week5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1074,7 +1074,7 @@
           },
           "title": "",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"week2.html\" data-toolbar=\"-mbrBtnMove\">CLICK FOR WEEK 2</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"week2.html\" data-toolbar=\"-mbrBtnMove\">GO TO WEEK 2</a>"
         }
       ]
     },
@@ -1875,6 +1875,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".btn": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_tags": [
@@ -1903,7 +1907,7 @@
           },
           "title": "",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"week5.html\" data-toolbar=\"-mbrBtnMove\">CLICK FOR WEEK 5</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"week5.html\" data-toolbar=\"-mbrBtnMove\">GO TO WEEK 5</a>"
         }
       ]
     },
@@ -2139,6 +2143,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".btn": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_tags": [
@@ -2167,7 +2175,7 @@
           },
           "title": "",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"week6.html\" data-toolbar=\"-mbrBtnMove\">CLICK FOR WEEK 6</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"week6.html\" data-toolbar=\"-mbrBtnMove\">GO TO WEEK 6</a>"
         }
       ]
     },
